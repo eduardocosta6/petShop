@@ -1,0 +1,12 @@
+/vendor/
+/writable/cache/*
+!/writable/cache/.gitignore
+/writable/logs/*
+!/writable/logs/.gitignore
+/writable/session/*
+!/writable/session/.gitignore
+/writable/uploads/*
+!/writable/uploads/.gitignore
+.env
+.vscode/
+.idea/
